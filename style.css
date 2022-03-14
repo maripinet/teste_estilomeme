@@ -1,0 +1,20 @@
+p {font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-size: 16px}
+
+font { color: 36FF00;
+   font-weight:
+normal}
+}
+
+strong { color: pink;
+        font-weight:
+normal}
+
+span {color: #36FF00}
+
+
+div {border: white solid 1px}
+div {
+  column-count: 3;
+ 
+}
